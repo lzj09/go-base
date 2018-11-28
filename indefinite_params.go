@@ -23,4 +23,5 @@ func test02(args ...int) {
 
 func main() {
 	test01(1, 2, 3, 4)
+	
 }
