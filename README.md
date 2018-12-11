@@ -9,3 +9,4 @@
 6、[回调函数 - 多态](https://github.com/lzj09/go-base/blob/master/callback_func.go)<br><br>
 7、[匿名函数](https://github.com/lzj09/go-base/blob/master/anonymous_func.go)<br><br>
 8、[闭包及特点](https://github.com/lzj09/go-base/blob/master/closure.go)<br><br>
+9、[defer用法及特性](https://github.com/lzj09/go-base/blob/master/defer.go)<br><br>
