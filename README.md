@@ -12,3 +12,4 @@
 9、[defer用法及特性](https://github.com/lzj09/go-base/blob/master/defer.go)<br><br>
 10、[获取命令行参数](https://github.com/lzj09/go-base/blob/master/command_args.go)<br><br>
 11、[工程管理](https://github.com/lzj09/go-base/tree/master/proj_manage)<br><br>
+12、[指针](https://github.com/lzj09/go-base/blob/master/pointer.go)<br><br>
