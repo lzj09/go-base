@@ -13,3 +13,5 @@
 10、[获取命令行参数](https://github.com/lzj09/go-base/blob/master/command_args.go)<br><br>
 11、[工程管理](https://github.com/lzj09/go-base/tree/master/proj_manage)<br><br>
 12、[指针](https://github.com/lzj09/go-base/blob/master/pointer.go)<br><br>
+13、[new函数用法](https://github.com/lzj09/go-base/blob/master/new_func.go)<br><br>
+14、[值传递参数与地址传递参数](https://github.com/lzj09/go-base/blob/master/value_pointer_transfer.go)<br><br>
