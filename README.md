@@ -16,3 +16,4 @@
 13、[new函数用法](https://github.com/lzj09/go-base/blob/master/new_func.go)<br><br>
 14、[值传递参数与地址传递参数](https://github.com/lzj09/go-base/blob/master/value_pointer_transfer.go)<br><br>
 15、[数组及其用法](https://github.com/lzj09/go-base/blob/master/array.go)<br><br>
+16、[生成随机数](https://github.com/lzj09/go-base/blob/master/rand.go)<br><br>
