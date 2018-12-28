@@ -18,3 +18,4 @@
 15、[数组及其用法](https://github.com/lzj09/go-base/blob/master/array.go)<br><br>
 16、[生成随机数](https://github.com/lzj09/go-base/blob/master/rand.go)<br><br>
 17、[冒泡排序](https://github.com/lzj09/go-base/blob/master/bubble_sort.go)<br><br>
+18、[数组作参数](https://github.com/lzj09/go-base/blob/master/array_param.go)<br><br>
