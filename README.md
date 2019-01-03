@@ -20,3 +20,4 @@
 17、[冒泡排序](https://github.com/lzj09/go-base/blob/master/bubble_sort.go)<br><br>
 18、[数组作参数](https://github.com/lzj09/go-base/blob/master/array_param.go)<br><br>
 19、[切片的定义](https://github.com/lzj09/go-base/blob/master/slice_def.go)<br><br>
+20、[切片截取](https://github.com/lzj09/go-base/blob/master/slice_split.go)<br><br>
