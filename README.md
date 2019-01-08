@@ -22,3 +22,4 @@
 19、[切片的定义](https://github.com/lzj09/go-base/blob/master/slice_def.go)<br><br>
 20、[切片截取](https://github.com/lzj09/go-base/blob/master/slice_split.go)<br><br>
 21、[切片的append和copy函数](https://github.com/lzj09/go-base/blob/master/slice_append_copy.go)<br><br>
+22、[切片作函数参数](https://github.com/lzj09/go-base/blob/master/slice_param.go)<br><br>
