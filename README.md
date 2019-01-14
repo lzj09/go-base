@@ -24,3 +24,4 @@
 21、[切片的append和copy函数](https://github.com/lzj09/go-base/blob/master/slice_append_copy.go)<br><br>
 22、[切片作函数参数](https://github.com/lzj09/go-base/blob/master/slice_param.go)<br><br>
 23、[map定义及赋值](https://github.com/lzj09/go-base/blob/master/map_base.go)<br><br>
+24、[map的循环、判断和删除方法](https://github.com/lzj09/go-base/blob/master/map_loop_if_del.go)<br><br>
