@@ -25,3 +25,5 @@
 22、[切片作函数参数](https://github.com/lzj09/go-base/blob/master/slice_param.go)<br><br>
 23、[map定义及赋值](https://github.com/lzj09/go-base/blob/master/map_base.go)<br><br>
 24、[map的循环、判断和删除方法](https://github.com/lzj09/go-base/blob/master/map_loop_if_del.go)<br><br>
+25、[map类型作函数参数](https://github.com/lzj09/go-base/blob/master/map_param.go)<br><br>
+26、[结构体的定义及初始化](https://github.com/lzj09/go-base/blob/master/struct_init.go)<br><br>
