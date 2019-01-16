@@ -27,3 +27,5 @@
 24、[map的循环、判断和删除方法](https://github.com/lzj09/go-base/blob/master/map_loop_if_del.go)<br><br>
 25、[map类型作函数参数](https://github.com/lzj09/go-base/blob/master/map_param.go)<br><br>
 26、[结构体的定义及初始化](https://github.com/lzj09/go-base/blob/master/struct_init.go)<br><br>
+27、[结构体成员变量赋值](https://github.com/lzj09/go-base/blob/master/struct_var.go)<br><br>
+28、[结构体作为函数参数](https://github.com/lzj09/go-base/blob/master/struct_param.go)<br><br>
