@@ -29,3 +29,4 @@
 26、[结构体的定义及初始化](https://github.com/lzj09/go-base/blob/master/struct_init.go)<br><br>
 27、[结构体成员变量赋值](https://github.com/lzj09/go-base/blob/master/struct_var.go)<br><br>
 28、[结构体作为函数参数](https://github.com/lzj09/go-base/blob/master/struct_param.go)<br><br>
+29、[结构体的可访问性](https://github.com/lzj09/go-base/tree/master/struct_manage)<br><br>
