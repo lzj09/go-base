@@ -34,3 +34,4 @@
 31、[结构体继承-同名字段](https://github.com/lzj09/go-base/blob/master/same_field.go)<br><br>
 32、[结构体的匿名指针字段](https://github.com/lzj09/go-base/blob/master/point_anonymous_field.go)<br><br>
 33、[方法](https://github.com/lzj09/go-base/blob/master/method.go)<br><br>
+34、[结构体方法](https://github.com/lzj09/go-base/blob/master/struct_method.go)<br><br>
