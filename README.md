@@ -35,3 +35,4 @@
 32、[结构体的匿名指针字段](https://github.com/lzj09/go-base/blob/master/point_anonymous_field.go)<br><br>
 33、[方法](https://github.com/lzj09/go-base/blob/master/method.go)<br><br>
 34、[结构体方法](https://github.com/lzj09/go-base/blob/master/struct_method.go)<br><br>
+35、[方法的继承](https://github.com/lzj09/go-base/blob/master/method_inherit.go)<br><br>
