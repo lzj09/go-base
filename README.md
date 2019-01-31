@@ -36,3 +36,4 @@
 33、[方法](https://github.com/lzj09/go-base/blob/master/method.go)<br><br>
 34、[结构体方法](https://github.com/lzj09/go-base/blob/master/struct_method.go)<br><br>
 35、[方法的继承](https://github.com/lzj09/go-base/blob/master/method_inherit.go)<br><br>
+36、[方法的覆盖](https://github.com/lzj09/go-base/blob/master/method_override.go)<br><br>
