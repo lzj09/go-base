@@ -40,3 +40,4 @@
 37、[方法值和方法表达式](https://github.com/lzj09/go-base/blob/master/method_value_expression.go)<br><br>
 38、[接口及多态](https://github.com/lzj09/go-base/blob/master/interface.go)<br><br>
 39、[接口的继承](https://github.com/lzj09/go-base/blob/master/interface_extends.go)<br><br>
+40、[空接口的使用及类型判断](https://github.com/lzj09/go-base/blob/master/empty_interface.go)<br><br>
