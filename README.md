@@ -42,3 +42,4 @@
 39、[接口的继承](https://github.com/lzj09/go-base/blob/master/interface_extends.go)<br><br>
 40、[空接口的使用及类型判断](https://github.com/lzj09/go-base/blob/master/empty_interface.go)<br><br>
 41、[error接口的使用](https://github.com/lzj09/go-base/blob/master/error_interface.go)<br><br>
+42、[panic异常](https://github.com/lzj09/go-base/blob/master/panic.go)<br><br>
