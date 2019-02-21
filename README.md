@@ -44,3 +44,4 @@
 41、[error接口的使用](https://github.com/lzj09/go-base/blob/master/error_interface.go)<br><br>
 42、[panic异常](https://github.com/lzj09/go-base/blob/master/panic.go)<br><br>
 43、[recover函数](https://github.com/lzj09/go-base/blob/master/recover.go)<br><br>
+44、[字符串的基本处理](https://github.com/lzj09/go-base/blob/master/strings_base.go)<br><br>
