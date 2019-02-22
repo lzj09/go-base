@@ -45,3 +45,4 @@
 42、[panic异常](https://github.com/lzj09/go-base/blob/master/panic.go)<br><br>
 43、[recover函数](https://github.com/lzj09/go-base/blob/master/recover.go)<br><br>
 44、[字符串的基本处理](https://github.com/lzj09/go-base/blob/master/strings_base.go)<br><br>
+45、[字符串转换](https://github.com/lzj09/go-base/blob/master/strconv_base.go)<br><br>
