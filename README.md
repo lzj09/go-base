@@ -49,3 +49,4 @@
 46、[正则表式的基本使用](https://github.com/lzj09/go-base/blob/master/regex_base.go)<br><br>
 47、[正则表达式实例](https://github.com/lzj09/go-base/blob/master/regex_example.go)<br><br>
 48、[结构体转成Json](https://github.com/lzj09/go-base/blob/master/struct_json.go)<br><br>
+49、[map转换成json](https://github.com/lzj09/go-base/blob/master/map_json.go)<br><br>
