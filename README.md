@@ -51,3 +51,4 @@
 48、[结构体转成Json](https://github.com/lzj09/go-base/blob/master/struct_json.go)<br><br>
 49、[map转换成json](https://github.com/lzj09/go-base/blob/master/map_json.go)<br><br>
 40、[json转换成结构体](https://github.com/lzj09/go-base/blob/master/json_struct.go)<br><br>
+41、[json转换成map](https://github.com/lzj09/go-base/blob/master/json_map.go)<br><br>
