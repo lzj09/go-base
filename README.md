@@ -59,3 +59,4 @@
 46、[Goexit用法](https://github.com/lzj09/go-base/blob/master/goroutine_goexit.go)<br><br>
 47、[通过channel实现同步](https://github.com/lzj09/go-base/blob/master/channel.go)<br><br>
 48、[无缓存channel](https://github.com/lzj09/go-base/blob/master/channel_unbuffer.go)<br><br>
+49、[有缓存的channel](https://github.com/lzj09/go-base/blob/master/channel_buffer.go)<br><br>
