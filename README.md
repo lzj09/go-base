@@ -66,3 +66,4 @@
 53、[tcp服务端代码](https://github.com/lzj09/go-base/blob/master/tcp_server.go)<br><br>
 54、[tcp客户端](https://github.com/lzj09/go-base/blob/master/tcp_client.go)<br><br>
 55、[tcp并发服务端](https://github.com/lzj09/go-base/blob/master/tcp_concurrent_server.go)<br><br>
+56、[tcp并发客户端](https://github.com/lzj09/go-base/blob/master/tcp_concurrent_client.go)<br><br>
