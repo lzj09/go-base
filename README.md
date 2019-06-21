@@ -70,3 +70,4 @@
 57、[根据文件路径获取文件信息](https://github.com/lzj09/go-base/blob/master/get_file_info.go)<br><br>
 58、[发送文件客户端](https://github.com/lzj09/go-base/blob/master/send_file_client.go)<br><br>
 59、[接收文件服务端](https://github.com/lzj09/go-base/blob/master/receive_file_server.go)<br><br>
+60、[聊天室-服务端](https://github.com/lzj09/go-base/blob/master/chat_server.go)<br><br>
