@@ -74,3 +74,4 @@
 61、[http编程01](https://github.com/lzj09/go-base/blob/master/go_web01.go)<br><br>
 62、[http客户端](https://github.com/lzj09/go-base/blob/master/http_client.go)<br><br>
 63、[抓取和保存网页](https://github.com/lzj09/go-base/blob/master/http_web_save.go)<br><br>
+64、[自定义请求处理器](https://github.com/lzj09/go-base/blob/master/custom_http_handler.go)<br><br>
